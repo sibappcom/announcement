@@ -80,7 +80,7 @@ body {
     max-width: 500px;
     margin: auto;
     direction: rtl;
-    font-family: iranyekan, tahoma;
+    /* font-family: iranyekan, tahoma; */
     line-height: 1.85;
     font-size: 16px;
     text-align: justify;
